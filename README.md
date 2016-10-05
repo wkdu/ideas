@@ -23,3 +23,13 @@ Resources:
 
 * Script to extract metadata from MP3s and add them to website
 * Charting and weekly adds integrated into database frontend
+
+Resources:
+* [MP3Tag](http://www.mp3tag.de/en/index.html)
+
+## 5. Album image recognition mobile app
+
+* Reverse image search of photo taken by mobile app through various APIs (such as Discogs)
+* Help with digital cataloguing of CD/vinyl library
+* Option to select format, pressing, and other identifiable information after detection
+* Play track preview when an album is detected (from a service like Spotify/Amazon Music/Google Play)
